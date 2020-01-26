@@ -1,5 +1,5 @@
 # Projet - Mitalent
-- GitHub Page : [Mitalent](www.google.com "page de notre projet")
+- GitHub Page : [Mitalent](https://qlfvr.github.io/mitalent-chilon/ "page de notre projet")
 -   Date début projet :  20-01-2020
 -   Date fin projet : 24-01-2020
 -   Team : [Quentin](https://github.com/Qlfvr) [Noah](https://github.com/Noahdierna) [Safiye](https://github.com/SafiyeAkdede) [Thomas](https://github.com/ThomasQuatresooz)
